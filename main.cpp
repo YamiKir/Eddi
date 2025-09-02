@@ -12,7 +12,7 @@ using namespace std;
 #define FILEHANDLE
 #endif 
 #ifndef NOTCURSES
-#include "notcurses.h"
+// include notcurse
 #define NOTCURSES
 #endif
 
