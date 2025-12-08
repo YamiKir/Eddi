@@ -1,0 +1,3 @@
+[submodule "notcurses"]
+	path = notcurses
+	url = https://github.com/dankamongmen/notcurses.git
