@@ -16,4 +16,9 @@
     Eddi is NOT Ed but it can run some familiar commands. 
 
 ============================================================
-Temp: locate the updated build of term-eddi.
+
+How to compile: 
+
+The current command I use to compile this program is 
+g++ eddi_main.cpp -o eddi -lnotcurses -lnotcurses-core
+Currently has been tested to work with the included pytxis terminal on Fedora 42+, issues with Visual Studio Code terminal emulator
