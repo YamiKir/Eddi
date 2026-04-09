@@ -16,4 +16,4 @@
     Eddi is NOT Ed but it can run some familiar commands. 
 
 ============================================================
-         
+Temp: locate the updated build of term-eddi.
